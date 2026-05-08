@@ -43,7 +43,7 @@ module Base
 	model AssaultRifle
     {
         mesh = weapons/firearm/M16_Rifle,
-        scale = 1.1,
+        scale = 2.0,
 
         attachment muzzle
         {
@@ -93,7 +93,7 @@ module Base
     {
         mesh = weapons/firearm/AssaultRifle_NoMag,
         texture = weapons/firearm/AssaultRifle,
-        scale = 1.1,
+        scale = 2.0,
         attachment muzzle
         {
             offset = 0.0000 0.3993 0.0237,
@@ -491,7 +491,7 @@ module Base
     {
         mesh = weapons/firearm/M14_NoMag,
         texture = weapons/firearm/AssaultRifle02,
-        scale = 1.1,
+        scale = 2.0,
 
         attachment muzzle
         {
