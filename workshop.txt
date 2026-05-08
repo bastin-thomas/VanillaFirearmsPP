@@ -1,49 +1,47 @@
 version=1
 id=3722358629
 title=[B42] Vanilla Firearms ++ (VISUAL ONLY)
-
 description= ==========
 description= The Project
 description= ==========
 description= This mod aim to add improved visuals, audios, and/or animations for all vanilla firearms. No Gameplay Balance or Modifications will be made on this mod.
-description= 
-description= 
+description=
+description=
 description= ===========
 description= Current State
 description= ===========
 description= Currently the Vanilla Firearms add some little tweaks on the B42 Firearms Models, and the real name of each weapons.
-description= 
-description= 
+description=
+description=
 description= ==============
 description= Planned Features
 description= ==============
-description= I want to provide more detailed models and textures to weapons. While following sticking to the rule of realism. 
+description= I want to provide more detailed models and textures to weapons. While following sticking to the rule of realism.
 description= I want also to add more realistic sounds for weapons, based on their models.
 description= I also want to provide better animation for some weapons (like lever actions)
-description= 
-description= 
+description=
+description=
 description= =======================
 description= How to contribute to the mod
 description= =======================
 description= Check the github Page with all necessary informations
 description= https://github.com/bastin-thomas/VanillaFirearmsPP
-description= 
+description=
 description= =================================
 description= How to report a bug ? or give some ideas ?
 description= =================================
 description= Only issues / improvements / ideas reported on github will be take in count.
 description= https://github.com/bastin-thomas/VanillaFirearmsPP/issues
-description= 
+description=
 description= ================
 description= Supported Versions
 description= ================
 description= ✅ B42.17 or Higher
 description= ❌ previous B42 or B41
-description= 
+description=
 description= =====================
 description= This project is open source
 description= =====================
 description= This project is under license Mozilla Public License Version 2.0 more informations on github
-
 tags=Build 42;Models;Multiplayer;Realistic;Textures;Weapons
 visibility=public
