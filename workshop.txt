@@ -1,0 +1,6 @@
+version=1
+id=3722358629
+title=[B42] Vanilla Firearms ++ (VISUAL ONLY)
+description=This mod aim to add an improved visual, audio, or animations for all vanilla firearms (No Gameplay Balance or Modifications will be made on this mod)
+tags=Build 42;Models;Multiplayer;Realistic;Textures;Weapons
+visibility=public

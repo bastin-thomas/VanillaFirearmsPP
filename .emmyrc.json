@@ -1,0 +1,21 @@
+{
+    "$schema": "https://raw.githubusercontent.com/EmmyLuaLs/emmylua-analyzer-rust/refs/heads/main/crates/emmylua_code_analysis/resources/schema.json",
+    "workspace": {
+        "library": ["$PZ_UMBRELLA"],
+        "workspaceRoots": [
+            "Contents/mods/NIM_MultiplayerSupport/42/media/lua",
+            "Contents/mods/NoInvisibleMap/42/media/lua"
+        ]
+    },
+    "runtime": {
+        "requirePattern": [
+            "shared/?.lua",
+            "client/?.lua",
+            "server/?.lua"
+        ],
+        "version": "Lua5.1"
+    },
+    "diagnostics": {
+        "disable": ["unnecessary-if"]
+    }
+}
