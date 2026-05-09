@@ -231,7 +231,7 @@ module Base
 
         attachment world
         {
-            offset = 0.0200 0.2300 0.0000,
+            offset = 0.0200 0.1300 0.0000,
             rotate = 180.0000 0.0000 180.0000,
         }
     }
