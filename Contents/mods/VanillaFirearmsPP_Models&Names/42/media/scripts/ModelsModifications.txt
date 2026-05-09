@@ -493,7 +493,7 @@ module Base
             rotate = 180.0000 0.0000 180.0000,
         }
     }
-    model AssaultRifle02
+    model AssaultRifle2
     {
         mesh = weapons/firearm/AssaultRifle02,
         scale = 1.3,
