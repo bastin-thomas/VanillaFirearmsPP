@@ -139,50 +139,6 @@ module Base
         }
     }
 
-
-    model AssaultRifle02
-    {
-        mesh = weapons/firearm/AssaultRifle02,
-        scale = 2.0,
-        attachment muzzle
-        {
-            offset = 0.0000 0.4955 0.0310,
-            rotate = -90.0000 0.0000 -180.0000,
-        }
-        attachment scope
-        {
-            offset = 0.0000 0.0301 0.0540,
-            rotate = 0.0000 0.0000 0.0000,
-        }
-        attachment scope2
-        {
-            offset = 0.0000 0.1139 0.0551,
-            rotate = 0.0000 0.0000 0.0000,
-        }
-        attachment recoilpad
-        {
-            offset = 0.0000 -0.1415 -0.0198,
-            rotate = 4.5736 0.0000 0.0000,
-            scale = 1.0450,
-        }
-        attachment reddot
-        {
-            offset = 0.0000 0.1340 0.0430,
-            rotate = 180.0000 0.0000 -180.0000,
-            scale = 0.8000,
-        }
-        attachment laser
-        {
-            offset = 0.0000 0.3275 0.0050,
-            rotate = 180.0000 0.0000 180.0000,
-        }
-        attachment world
-        {
-            offset = 0.0143 0.1800 0.0000,
-            rotate = 180.0000 0.0000 180.0000,
-        }
-    }
-
 	model VarmintRifle
     {
         mesh = weapons/firearm/MSR700_Rifle,
@@ -440,7 +396,7 @@ module Base
 	model M14_Rifle
     {
         mesh = weapons/firearm/M14_Rifle,
-        scale = 1.1,
+        scale = 1.3,
 
         attachment muzzle
         {
@@ -491,7 +447,7 @@ module Base
     {
         mesh = weapons/firearm/M14_NoMag,
         texture = weapons/firearm/AssaultRifle02,
-        scale = 2.0,
+        scale = 1.3,
 
         attachment muzzle
         {
@@ -537,6 +493,49 @@ module Base
             rotate = 180.0000 0.0000 180.0000,
         }
     }
+    model AssaultRifle02
+    {
+        mesh = weapons/firearm/AssaultRifle02,
+        scale = 1.3,
+        attachment muzzle
+        {
+            offset = 0.0000 0.4955 0.0310,
+            rotate = -90.0000 0.0000 -180.0000,
+        }
+        attachment scope
+        {
+            offset = 0.0000 0.0301 0.0540,
+            rotate = 0.0000 0.0000 0.0000,
+        }
+        attachment scope2
+        {
+            offset = 0.0000 0.1139 0.0551,
+            rotate = 0.0000 0.0000 0.0000,
+        }
+        attachment recoilpad
+        {
+            offset = 0.0000 -0.1415 -0.0198,
+            rotate = 4.5736 0.0000 0.0000,
+            scale = 1.0450,
+        }
+        attachment reddot
+        {
+            offset = 0.0000 0.1340 0.0430,
+            rotate = 180.0000 0.0000 -180.0000,
+            scale = 0.8000,
+        }
+        attachment laser
+        {
+            offset = 0.0000 0.3275 0.0050,
+            rotate = 180.0000 0.0000 180.0000,
+        }
+        attachment world
+        {
+            offset = 0.0143 0.1800 0.0000,
+            rotate = 180.0000 0.0000 180.0000,
+        }
+    }
+
     model DoubleBarrelShotgun
     {
         mesh = weapons/firearm/JS_2000,
