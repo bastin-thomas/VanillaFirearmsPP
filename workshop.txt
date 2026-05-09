@@ -1,6 +1,6 @@
 version=1
 id=3722358629
-title=[WIP][B42] Vanilla Firearms ++ (VISUAL ONLY)
+title=[B42] Vanilla Firearms ++ (VISUAL ONLY)
 description= ==========
 description= The Project
 description= ==========
