@@ -30,8 +30,8 @@
 
     "Base.44Clip": ".44 Magnum Desert Eagle Magazine",
     "Base.45Clip": ".45 ACP M1911 Magazine",
-    "Base.556Clip": "5.56x45mm STANAG Magazine",
+    "Base.556Clip": "5.56x45mm M16A1 Magazine",
     "Base.9mmClip": "9x19mm M9A1 Magazine",
     "Base.JS14_Clip": "5.56x45mm Mini-14 Magazine",
-    "Base.M14Clip": "7.62x51mm Springfield M1A Magazine"
+    "Base.M14Clip": "7.62x51mm M1A Magazine"
 }
