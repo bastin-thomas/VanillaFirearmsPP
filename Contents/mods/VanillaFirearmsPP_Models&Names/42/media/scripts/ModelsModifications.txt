@@ -745,6 +745,7 @@ module Base
     model Revolver
     {
         mesh = weapons/firearm/M625_Revolver,
+        scale = 1.15,
         attachment muzzle
         {
             offset = 0.0 0.1444 -0.029,
@@ -776,6 +777,7 @@ module Base
     model Revolver_Long
     {
         mesh = weapons/firearm/Magnum_Revolver,
+        scale = 1.15,
         attachment muzzle
         {
             offset = 0.0 0.1734 -0.028,
@@ -807,6 +809,7 @@ module Base
     model Revolver_Short
     {
         mesh = weapons/firearm/M36_Revolver,
+        scale = 1.15,
         attachment muzzle
         {
             offset = 0.0 0.1129 -0.0271,
@@ -833,6 +836,7 @@ module Base
     model Handgun
     {
         mesh = weapons/firearm/D_E_Pistol,
+        scale = 1.15,
         attachment muzzle
         {
             offset = 0.0 0.1466 -0.0236,
@@ -875,6 +879,7 @@ module Base
     model Handgun02
     {
         mesh = weapons/firearm/1911_Pistol,
+        scale = 1.15,
         attachment muzzle
         {
             offset = 0.0 0.1432 -0.0225,
@@ -917,6 +922,7 @@ module Base
     model Handgun03
     {
         mesh = weapons/firearm/M9_Pistol,
+        scale = 1.15,
         attachment muzzle
         {
             offset = 0.0 0.1443 -0.0279,
