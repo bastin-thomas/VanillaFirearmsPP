@@ -317,7 +317,7 @@ module Base
 
         attachment recoilpad
         {
-            offset = 0.0000 -0.1644 -0.0137,
+            offset = 0.0000 -0.1744 -0.0137,
             rotate = -0.0430 0.0000 0.0000,
             scale = 1.1730,
         }
