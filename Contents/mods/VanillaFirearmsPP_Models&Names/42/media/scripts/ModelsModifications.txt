@@ -427,7 +427,7 @@ module Base
 
         attachment reddot
         {
-            offset = 0.0000 0.1340 0.0430,
+            offset = 0.0000 0.0301 0.0430,
             rotate = 180.0000 0.0000 -180.0000,
             scale = 0.8000,
         }
