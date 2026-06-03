@@ -53,14 +53,14 @@ module Base
 
         attachment scope
         {
-            offset = 0.0000 -0.0019 0.0694,
+            offset = 0.0000 0.0 0.0694,
             rotate = 0.0000 0.0000 0.0000,
             scale = 1.1224,
         }
 
         attachment scope2
         {
-            offset = 0.0000 0.0103 0.0683,
+            offset = 0.0000 0.0053 0.0683,
             rotate = 0.0000 0.0000 0.0000,
         }
 
@@ -94,6 +94,8 @@ module Base
         mesh = weapons/firearm/AssaultRifle_NoMag,
         texture = weapons/firearm/AssaultRifle,
         scale = 1.15,
+        
+        
         attachment muzzle
         {
             offset = 0.0000 0.3993 0.0237,
@@ -102,14 +104,14 @@ module Base
 
         attachment scope
         {
-            offset = 0.0000 -0.0019 0.0694,
+            offset = 0.0000 0.0 0.0694,
             rotate = 0.0000 0.0000 0.0000,
             scale = 1.1224,
         }
 
         attachment scope2
         {
-            offset = 0.0000 0.0103 0.0683,
+            offset = 0.0000 0.0053 0.0683,
             rotate = 0.0000 0.0000 0.0000,
         }
 
@@ -161,10 +163,10 @@ module Base
             offset = 0.0000 0.3510 0.0160,
             rotate = 0.0000 0.0000 0.0000,
         }
-
+        
         attachment scope
         {
-            offset = 0.0000 0.0303 0.0444,
+            offset = 0.0000 0.0303 0.0491,
             rotate = 0.0000 0.0000 0.0000,
         }
 
@@ -176,7 +178,7 @@ module Base
 
         attachment recoilpad
         {
-            offset = 0.0000 -0.1742 -0.0275,
+            offset = 0.0000 -0.1450 -0.0275,
             rotate = 0.0000 0.0000 0.0000,
             scale = 0.9734,
         }
@@ -266,9 +268,9 @@ module Base
 
         attachment recoilpad
         {
-            offset = 0.0000 -0.1644 -0.0137,
+            offset = 0.0000 -0.1400 -0.0137,
             rotate = -0.0430 0.0000 0.0000,
-            scale = 1.1730,
+            scale = 1.1672,
         }
 
         attachment reddot
@@ -368,7 +370,7 @@ module Base
 
         attachment recoilpad
         {
-            offset = 0.0000 -0.1676 -0.0148,
+            offset = 0.0000 -0.1450 -0.0148,
             rotate = -0.5487 0.0000 0.0000,
             scale = 1.1672,
         }
@@ -626,9 +628,9 @@ module Base
 
         attachment recoilpad
         {
-            offset = 0.0000 -0.1673 -0.0427,
+            offset = 0.0 -0.1673 -0.0427,
             rotate = 10.0000 0.0000 0.0000,
-            scale = 1.2091,
+            scale = 1.3091,
         }
 
         attachment world
@@ -695,7 +697,7 @@ module Base
 
         attachment reddot
         {
-            offset = 0.0000 0.0670 0.0339,
+            offset = 0.0000 0.0570 0.0339,
             rotate = -180.0000 0.0000 180.0000,
         }
 
