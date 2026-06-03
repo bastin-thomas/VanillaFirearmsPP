@@ -53,14 +53,14 @@ module Base
 
         attachment scope
         {
-            offset = 0.0000 0.0 0.0694,
+            offset = 0.0000 0.01 0.0694,
             rotate = 0.0000 0.0000 0.0000,
             scale = 1.1224,
         }
 
         attachment scope2
         {
-            offset = 0.0000 0.0053 0.0683,
+            offset = 0.0000 -0.0053 0.0683,
             rotate = 0.0000 0.0000 0.0000,
         }
 
@@ -178,9 +178,9 @@ module Base
 
         attachment recoilpad
         {
-            offset = 0.0000 -0.1450 -0.0275,
+            offset = 0.0000 -0.1350 -0.033,
             rotate = 0.0000 0.0000 0.0000,
-            scale = 0.9734,
+            scale = 1.13,
         }
 
         attachment reddot
@@ -697,7 +697,7 @@ module Base
 
         attachment reddot
         {
-            offset = 0.0000 0.0570 0.0339,
+            offset = 0.0000 0.0470 0.0339,
             rotate = -180.0000 0.0000 180.0000,
         }
 
